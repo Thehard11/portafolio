@@ -133,7 +133,7 @@ player.play ("idle-down");
 return;
 }
 if (player.direction === "up") {
-player-play ("idle-up");
+player.play ("idle-up");
 return;
 }
 player.play("idle-side");
